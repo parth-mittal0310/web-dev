@@ -1,0 +1,11 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+}
+#myid p{
+    background-color: green;
+    color:azure;
+}
+p+h3{
+    text-decoration: underline;
+}
